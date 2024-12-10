@@ -1,0 +1,1 @@
+export const increment = createAction('[Counter Component] increment');
